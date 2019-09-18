@@ -1,0 +1,153 @@
+body{
+    background-color: #F5F4EF;
+    /* width: auto;
+    height: auto; */
+    font-family: 'Roboto';
+    text-align: justify;
+}
+
+.container{
+    position: absolute;
+    left: 22%;
+}
+
+header{
+    color: black;
+    line-height: 0.6;
+    font-size: 22px;
+    margin-left: 10px;
+}
+
+header h1 a {
+    text-decoration: none;
+    color: black;
+}
+
+section{
+    background-color: white;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+a span{
+    font-size: 16px;
+}
+
+.h3First{
+    color: brown;
+}
+
+.htmlInBA{
+    padding: 10px 20px;
+}
+
+.htmlInBA h2{
+    margin-bottom: -10px;
+    line-height: 1.4;
+    font-size: 26px;
+}
+
+.htmlInBA p{
+   font-size: 15px;
+}
+
+.htmlInBA h2 a {
+    color: black;
+    text-decoration: none;
+    font-size: 21px;
+}
+
+.linksFirst{
+    color: brown;
+}
+
+.title{
+    padding: 10px 20px;
+}
+
+.title h3{
+    margin-bottom: 10px;
+    font-size: 22px;
+}
+
+.title1{
+    color:brown;
+    text-decoration: none;
+}
+
+.title p a{
+    color:brown;
+}
+
+.title hr{
+    width: 100%;
+    align-self: center;
+    color: silver;
+    background-color:silver;
+    height: 1px;
+    border: none;
+    opacity: 0.3;
+}
+
+.titleText1 p,.titleText2 p{
+    margin-top: -10px;
+    font-size: 15px;
+}
+
+.list{
+    background-color:  #F5F4EF;
+    margin-bottom: 40px;
+    margin-top: 30px;
+}
+
+.list h3{
+    color:brown;
+}
+
+.list div a{
+    text-decoration: none;
+    color: black;
+}
+
+.hrList{
+    width:210px;
+    border: none;
+    color: white;
+    background-color:silver;
+    height: 1px;
+    opacity: 0.3;
+    position: relative;
+    margin: 10px 0px;
+}
+
+footer p a{
+    color: brown;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+footer p{
+    font-size: 15px;
+}
+
+footer{
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px 20px;
+    line-height: 1.4;
+}
+
+.footer1{
+    float: left;
+    margin-right: 110px;
+}
+
+.bottom{
+    float: right;
+    margin: 30px 0;
+}
+
+.bottom a{
+    color: brown;
+}
